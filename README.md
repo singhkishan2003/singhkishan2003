@@ -1,21 +1,45 @@
-<h1 align="center">Hi 👋, I'm Kishan Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="">
+# Hi , I'm Kishan Singh! 👋
 
-- 🔭 I’m currently working on ** upskilling my skill set**
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/kishan-singh-hinauti/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/yourusername)](https://github.com/singhkishan2003)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visit-yellow?style=flat-square&link=https://yourportfolio.com)](https://singhkishan2003.github.io/Portfolio./)
 
-- 🌱 I’m currently learning **some advance technology**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **singhkishan40147@gmail.com**
+I'm a passionate *Software Developer* with experience in *ReactJS, Nodejs, MongoDB, Material-Ui, Redux, JavaScript, CSS, HTML, Bootstrap, Tailwind, SQL, Java, Python: e.g., Full Stack Development*. I enjoy building high-quality web application, contributing to open source, and solving challenging problems.
 
-- ⚡ Fun fact **I think I am a funny.**
+- 💻 Currently working on *Back-end Technology*
+- 🌱 Learning *Data Base and Algorithm and Many more...*
+- 💬 Ask me about *JavaScript, Java, ReactJS*
+- ⚡ Fun fact: *I love Coding and Football, Cricket, Cooking in my free time!*
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kishans40147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kishans40147" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kishan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kishan singh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kishan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kishan singh" height="30" width="40" /></a>
-</p>
+## 🔧 Technologies & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-lightgreen?style=flat-square&logo=mongodb)
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## 🚀 Projects
+
+
+### [Project 3: Landing Page](https://singhkishan2003.github.io/TwoGood.co/)
+- Description: Implemented dynamic effects that are triggered as the user scrolls through the page, such as fade-ins, sliding elements, and parallax backgrounds, using CSS and JavaScript..
+- Tech Stack: HTML, CSS, JavaScript, GSAPS.
+
+### [Project 2: Weather Application]()
+- Description: A weather forecasting app using React and OpenWeatherMap API.
+- Tech Stack: React, JavaScript,Material-Ui, API integration.
+
+### [Project 1: Simon Colour Memory Game](https://singhkishan2003.github.io/Simon_game/)
+- Description:Designed and implemented a web-based Simon Memory Game to enhance cognitive skills using HTML, CSS, and JavaScript.
+- Tech Stack: Html,CSS,JavaScript.
+  
+
+## 📫 How to reach me
+
+- *Email*: [singhkishan40147@gmail.com](singhkishan40147@gmail.com)
+- *LinkedIn*: [/Kishan-Singh](https://www.linkedin.com/in/kishan-singh-hinauti/)
+- *GitHub*: [@kishan-singh](https://github.com/singhkishan2003) 
